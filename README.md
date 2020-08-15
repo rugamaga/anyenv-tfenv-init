@@ -1,3 +1,10 @@
+# Deprecated!
+
+- anyenv is already fixed the problem: https://github.com/anyenv/anyenv/pull/82
+- so this plugin is now deprecated
+
+---
+
 # anyenv-tfenv-init
 
 This is an [anyenv](https://github.com/anyenv/anyenv) plugin that
